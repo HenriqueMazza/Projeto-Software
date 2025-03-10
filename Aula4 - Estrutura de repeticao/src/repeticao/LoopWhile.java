@@ -36,7 +36,7 @@ public class LoopWhile {
                 System.out.println("Número máximo de tentativas atingido. Acesso negado!");
             }
         }
-        
+
         sc.close();
     }
 }
